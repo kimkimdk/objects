@@ -184,6 +184,11 @@ img {
     position:absolute;
 }
 
+.vhsize-poster {
+  height: 100vh;
+  width: auto;
+}
+
 .vhsize {
   height: 100vh;
   width: auto;
