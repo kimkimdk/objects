@@ -30,7 +30,9 @@ nav {
 
 a#home,
 a#info,
-a#sidenotes {
+a#sidenotes,
+a#encounters,
+a#background {
   /* justify-content: center;
   align-items: center; */
   padding-right: 20px;
@@ -182,7 +184,7 @@ img {
     position:absolute;
 }
 
-.vhsize-poster {
+.vhsize {
   height: 100vh;
   width: auto;
 }
