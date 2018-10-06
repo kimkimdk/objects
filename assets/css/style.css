@@ -122,9 +122,9 @@ h2:hover {
 h3 {
   font-size: 2.2rem;
   line-height: 1;
-  font-family: "adobe-ming-std";
+  font-family: "bookmania";
   text-transform: capitalize;
-  font-weight: normal;
+  font-weight: 300;
 
 /* h4 {
   font-family: 'Cutive Mono', monospace;
@@ -165,13 +165,13 @@ h4:hover {
   font-weight: normal;
 }
 
-.textcenter {
+/* p .textcenter {
   text-align: center;
 }
 
 .aligncenter {
   justify-content: center;
-  align-items: center;
+  align-items: center; */
 }
 
 article {
