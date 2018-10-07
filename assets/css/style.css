@@ -104,7 +104,7 @@ h2 {
   font-size: 3.1rem;
   line-height: 1.3;
   font-weight: normal;
-  /* color: black; */
+  color: black;
   overflow: hidden;
   /* project menu fixed width */
   white-space: nowrap;
@@ -143,7 +143,7 @@ h3 {
 }
 
 .blue{
-  color: rgb(0,87,255);
+  color: rgb(0,87,255) !important;
 }
 
 .red{
