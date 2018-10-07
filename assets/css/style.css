@@ -123,8 +123,8 @@ h3 {
     font-family: "bookmania"
     font-weight: 300;
     text-transform: uppercase;
-    justify-content: center;
-    text-align: center;
+    text-align: left;
+    text-indent: 4em;
   }
 
 /* h4 {
