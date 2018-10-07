@@ -126,34 +126,6 @@ h3 {
   text-indent: 1.4em;
 }
 
-/* h3 {
-  font-size: 2.8rem;
-  line-height: 1.2;
-  font-family: "bookmania";
-  font-weight: 300;
-  text-indent: 1.4em;
-  text-transform: uppercase;
-  } */
-
-/* h4 {
-  font-family: 'Cutive Mono', monospace;
-  letter-spacing: 0.1px;
-  font-size: 2.4rem;
-  line-height: 1;
-  font-weight: normal;
-  color: black;
-  overflow: hidden;
-  /* project menu fixed width */
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  width: 100%;
-}
-
-h4:hover {
-  /* opacity: 0.2; */
-  font-style: italic;
-} */
-
 /* custom underline */
 .customunderline {
   display: inline-block;
@@ -168,6 +140,56 @@ h4:hover {
   width: 100%;
   border-bottom: 1px solid;
   margin-top: 1px;
+}
+
+.blue{
+  color: rgb(0,87,255);
+}
+
+.red{
+  color: rgb(255,22,31)
+}
+
+.lightgreen{
+  /* color: rgb(120,186,47) */
+  color: rgb(137,221,100)
+}
+
+.teal {
+  color: rgb(2,127,93)
+}
+
+.lightblue{
+  color: rgb(0,166,255);
+}
+
+.yellow{
+  color: rgb(255,160,0);
+}
+
+.purple{
+  color: rgb(126,1,255);
+}
+
+.grey{
+  color: rgb(150,150,150);
+}
+
+.orange{
+  color: rgb(255,79,1);
+}
+
+.pink{
+  color: rgb(255,1,126);
+  /* color: rgb(215,144,170) */
+}
+
+.purple-pink{
+  color: rgb(207,0,255);
+}
+
+.green{
+  color: rgb(0,200,126);
 }
 
 .weight-normal {
