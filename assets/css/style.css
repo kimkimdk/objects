@@ -122,6 +122,10 @@ a{
 }
 
 
+.bg-lightblue{
+background-color: rgb(0,166,255);
+}
+
 .blue{
   color: rgb(0,87,255);
 }
