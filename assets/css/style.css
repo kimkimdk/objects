@@ -122,12 +122,11 @@ a{
 }
 
 .textindent {
-  text-indent: 1.4em !important;
+  padding-left: 1.4em !important;
 }
 
 .textindent2 {
   padding-left: 2.8em !important;
-  /* text-indent: 2.8em !important; */
 }
 
 .notextindent {
