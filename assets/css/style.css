@@ -51,12 +51,23 @@ p{
   font-family: "bookmania";
   font-weight: 300;
   padding-right: 0.5em;
+  hyphens: auto;
+}
+
+.quote{
+  font-size: 1.4rem;
+  line-height: 1.2;
+  font-family: "bookmania";
+  font-weight: 300;
+  padding-right: 0.5em;
+  padding-left: 1.4em !important;
 }
 
 .timestamp{
   font-size: 1.2rem;
   font-family: 'Nova Cut', cursive;
   position : relative;
+  hyphens: none !important;
 }
 
 p .timestamp{
@@ -132,6 +143,11 @@ a{
 .notextindent {
   text-indent: 0 !important;
 }
+
+.firstlineindent {
+  text-indent: 1.4em;
+}
+
 .bg-lightblue{
 background-color: rgb(0,166,255);
 }
