@@ -57,7 +57,9 @@ p{
 .quote{
   font-size: 1.4rem;
   line-height: 1.2;
-  font-family: "bookmania";
+  /* font-family: "bookmania"; */
+  font-family: 'Cutive Mono', monospace;
+  letter-spacing: -0.4px;
   font-weight: 300;
   padding-right: 0.5em;
   padding-left: 1.4em !important;
