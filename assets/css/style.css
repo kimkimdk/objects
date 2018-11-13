@@ -134,6 +134,10 @@ a{
     text-decoration:none;
 }
 
+.reference {
+  color: rgb(126,1,255);
+}
+
 .textindent {
   padding-left: 1.4em !important;
 }
